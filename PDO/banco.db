@@ -1,0 +1,5 @@
+CREATE Table 'usuarios' (  
+    'id' INT NOT NULL auto_increment PRIMARY key,
+    'nome' VARCHAR(100) not NULL,
+    'email' VARCHAR(100) not NULL
+) engine*innodb DEFAULT charset=utf8mb4;

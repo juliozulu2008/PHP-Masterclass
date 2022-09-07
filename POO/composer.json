@@ -1,0 +1,15 @@
+{
+    "name": "julio/poo",
+    "autoload": {
+        "psr-4": {
+            "Julio\\Poo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "juliozulu2008",
+            "email": "juliozulu2008@gmail.com"
+        }
+    ],
+    "require": {}
+}
